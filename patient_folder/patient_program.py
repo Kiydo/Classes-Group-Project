@@ -1,8 +1,8 @@
-# Assignment: Classes (Individual)
+# Assignment: Classes (Group)
 # Edward Magtoto 000816021
 
 # Assignment
-# Alberta Rural Patient Care (ARPC) is a new healthcare provider in Alberta. To complement the existing large-scale hospitals located in urban settings, ARPC is building a network of smaller scale mini-hospitals which target underserved rural populations. ARPC has hired your company to create a management system which is customized to meet their unique operational needs. (only for the patients section of the project)
+# Alberta Rural Patient Care (ARPC) is a new healthcare provider in Alberta. To complement the existing large-scale hospitals located in urban settings, ARPC is building a network of smaller scale mini-hospitals which target underserved rural populations. ARPC has hired your company to create a management system which is customized to meet their unique operational needs. (Patient section)
 
 # Table of Contents
 #   IMPORTS
@@ -19,6 +19,7 @@
 
 #   IMPORTS
 import patient
+
 
 #   LISTS
 p_list = [] # List for Patients
