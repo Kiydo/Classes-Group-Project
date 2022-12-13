@@ -128,7 +128,7 @@ class Doctor:
 
                 break
                
-####Print all the doctors information(attributes)####
+####Print all the doctors information(attributes)###
     def displayDoctorsList():
         #Refresh the list
         Doctor.doctorObjects.clear()
