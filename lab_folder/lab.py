@@ -10,5 +10,5 @@ class Lab():
         return result
 
     def formatLabInfo(self):
-        added = f"\n{self.name}_{self.cost}"
+        added = f"{self.name}_{self.cost}\n"
         return added

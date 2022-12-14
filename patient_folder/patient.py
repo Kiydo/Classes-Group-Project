@@ -16,4 +16,6 @@ class Patient:
     def formatPatientInfo(self):
         added = f"{self.id}_{self.name}_{self.diagnosis}_{self.gender}_{self.age}\n"
         return added
+
+
         
